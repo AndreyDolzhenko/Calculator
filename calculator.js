@@ -1,3 +1,4 @@
+// Версия 0923
 // ГЛОБАЛЬНЫЕ ПЕРЕМЕННЫЕ
 let buttons_form=document.getElementById('calculator_base_left'); // ищем блок с цифрами	
 let input_txt=document.getElementById('visual_txt'); // ищем поле для ввода данных
